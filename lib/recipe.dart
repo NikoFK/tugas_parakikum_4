@@ -13,7 +13,7 @@ class Recipe {
   );
 
   static List<Recipe> samples = [
-    Recipe('Soto Lamongan', 'assets/sotolamongan.jpg', 4, [
+    Recipe('Rawon', 'assets/sotolamongan.jpg', 4, [
       Ingredient(1, 'potong', 'ayam'),
       Ingredient(200, 'gram', 'bihun'),
       Ingredient(2, 'batang', 'seledri'),
