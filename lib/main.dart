@@ -27,11 +27,11 @@ class RecipeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Recipe Calculator',
+      title: 'Jelajahi Kuliner Khas Jawa Timur: 10 Resep Tradisional Paling Autentik',
       theme: ThemeData(
         primarySwatch: white,
       ),
-      home: const MyHomePage(title: 'Recipe Calculator'),
+      home: const MyHomePage(title: 'Jelajahi Kuliner Khas Jawa Timur: 10 Resep Tradisional Paling Autentik'),
     );
   }
 }
